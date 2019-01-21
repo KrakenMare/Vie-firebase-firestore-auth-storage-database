@@ -4,7 +4,7 @@
 ## Firebase / Firestore Setup
 go to
 ```
-http://firebase.coogle.com
+http://firebase.google.com
 ```
 1. Under the Authentication tab - select email/password and click the activate switch.
   - create a user and set a field in that user 
